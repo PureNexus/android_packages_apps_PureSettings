@@ -11,8 +11,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Main Menu -->
-    <!-- Title -->
+    <!-- App Title -->
     <string name="pure_settings_title">Ajustes de PureNexus</string>
 
     <!-- Categories -->
@@ -199,6 +198,9 @@
     <!-- Battery saver notification toggle -->
     <string name="battery_saver_notif_title">Notificación de ahorro de Batería</string>
     <string name="battery_saver_notif_summary">Mostrar la notificación de ahorro de batería cuando esté habilitado</string>
+ <!-- Camera shutter sound -->
+    <string name="camera_sounds_title">Sonido del obturador de la cámara</string>
+    <string name="camera_sounds_summary">Activar el sonido del obturador de la cámara</string>
     <!-- low battery notification toggle -->
     <string name="battery_low_notif_title">Notificación de batería baja</string>
     <string name="battery_low_notif_summary">Mostrar notificación de batería baja cuando esté habilitado</string>
@@ -419,7 +421,7 @@
     <string name="volumerocker_settings_title">Teclas de volumen</string>
     <!-- Volume button wake -->
     <string name="volbtn_wake_device_title">Despertar dispositivo</string>
-    <string name="button_wake_summary">Reemplazar control de reproducción</string>
+    <string name="button_wake_summary">No puede despertar el dispositivo, si el controlador de la música está activado y se reproduce la música</string>
     <!-- Volume button track change -->
     <string name="volbtn_music_controls_title">Control de Música</string>
     <string name="volbtn_music_controls_summary">Cuando la pantalla está apagada, una pulsación larga en las teclas de volumen cambiará de canción</string>
