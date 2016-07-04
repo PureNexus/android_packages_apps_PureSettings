@@ -187,9 +187,9 @@
     <string name="smart_pulldown_summary">Desplegar el panel de ajustes rápidos cuando hay %1$s notificaciones</string>
     <string name="smart_pulldown_none_summary">Desplegar el panel de ajustes rápidos cuando no haya notificaciones</string>
     <string name="smart_pulldown_off">Deshabilitado</string>
-    <string name="smart_pulldown_none">ningunas notificaciones</string>
-    <string name="smart_pulldown_dismissable">ninguna descartable</string>
-    <string name="smart_pulldown_ongoing">ninguna en curso</string>
+    <string name="smart_pulldown_none">Sin notificaciones</string>
+    <string name="smart_pulldown_dismissable">Ninguna descartable</string>
+    <string name="smart_pulldown_ongoing">Ninguna en curso</string>
 
     <!-- Notification & Media fragment -->
     <string name="notification_media_settings_title">Medios y notificaciones</string>
