@@ -160,7 +160,7 @@
     <string name="notification_force_expand_summary">Expandir notificaciones automáticamente en aplicaciones compatibles</string>
     <!-- main tiles -->
     <string name="qs_main_tiles_title">Ampliar la primera fila</string>
-    <string name="qs_main_tiles_summary">Dos controles principales en la primera fila</string>
+    <string name="qs_main_tiles_summary">Dos fichas principales en la primera fila</string>
     <!-- notification panel header weather -->
     <string name="status_bar_show_weather_title">Mostrar el clima</string>
     <string name="status_bar_show_weather_summary">Mostrar el clima en la cabecera del panel de notificaciones</string>
@@ -175,13 +175,16 @@
     <string name="quick_pulldown_always">Siempre</string>
     <!-- Quicks settings shortcut -->
     <string name="quick_settings_title">Ajustes rápidos</string>
-    <string name="quick_settings_summary">Configuración de los controles de ajustes rápidos</string>
+    <string name="quick_settings_summary">Configuración de las fichas de ajustes rápidos</string>
     <!-- Quicks settings columns -->
-    <string name="qs_num_columns_title">Número de controles por fila</string>
-    <string name="qs_num_columns_showing">Mostrar %1$s controles por fila</string>
+    <string name="qs_num_columns_title">Número de fichas por fila</string>
+    <string name="qs_num_columns_showing">Mostrar %1$s fichas por fila</string>
     <string name="quick_columns_three">Tres</string>
     <string name="quick_columns_four">Cuatro</string>
     <string name="quick_columns_five">Cinco</string>
+    <!-- Quicks settings vibrate -->
+    <string name="quick_settings_vibrate_title">Vibrar al tocar</string>
+    <string name="quick_settings_vibrate_summary">Vibrar al tocar las fichas</string>
     <!-- Smart pulldown-->
     <string name="smart_pulldown_title">Despliegue inteligente</string>
     <string name="smart_pulldown_summary">Desplegar el panel de ajustes rápidos cuando hay %1$s notificaciones</string>
@@ -190,6 +193,9 @@
     <string name="smart_pulldown_none">Sin notificaciones</string>
     <string name="smart_pulldown_dismissable">Ninguna descartable</string>
     <string name="smart_pulldown_ongoing">Ninguna en curso</string>
+    <!-- Disable Quicks settings -->
+    <string name="lockscreen_qs_disabled_title">Desactivar ajustes rápidos</string>
+    <string name="lockscreen_qs_disabled_summary">Deshabilita los ajustes rápidos en pantalla de bloqueo segura</string>
 
     <!-- Notification & Media fragment -->
     <string name="notification_media_settings_title">Medios y notificaciones</string>
