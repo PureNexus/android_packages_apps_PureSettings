@@ -154,8 +154,8 @@
     <string name="qs_advanced_location_title">Configuración de ubicación avanzada</string>
     <string name="qs_advanced_location_summary">Activar la configuración avanzada de la ubicación en los ajustes rápidos</string>
     <!-- Advanced data quick settings -->
-    <string name="qs_advanced_data_title">Advanced data tile</string>
-    <string name="qs_advanced_data_summary">Enable one tap action to enable or disable data</string>
+    <string name="qs_advanced_data_title">Ficha de datos avanzada</string>
+    <string name="qs_advanced_data_summary">Activar para habilitar o deshabilitar los datos con una pulsación</string>
     <!-- Brightness slider -->
     <string name="qs_brightness_slider_title">Mostrar barra de brillo</string>
     <!-- Force expand notifications -->
@@ -173,8 +173,8 @@
     <string name="quick_pulldown_summary">El borde %1$s de la barra de notificaciones desplegará el panel de ajustes rápidos</string>
     <string name="quick_pulldown_summary_always">Mostrar siempre los ajustes rápidos al desplegar la barra de estado</string>
     <string name="quick_pulldown_off">Deshabilitado</string>
-    <string name="quick_pulldown_left">Izquierda</string>
-    <string name="quick_pulldown_right">Derecha</string>
+    <string name="quick_pulldown_left">Izquierdo</string>
+    <string name="quick_pulldown_right">Derecho</string>
     <string name="quick_pulldown_always">Siempre</string>
     <!-- Quicks settings shortcut -->
     <string name="quick_settings_title">Ajustes rápidos</string>
@@ -197,8 +197,8 @@
     <string name="smart_pulldown_dismissable">Ninguna descartable</string>
     <string name="smart_pulldown_ongoing">Ninguna en curso</string>
     <!-- Disable Quicks settings -->
-    <string name="lockscreen_qs_disabled_title">Desactivar ajustes rápidos</string>
-    <string name="lockscreen_qs_disabled_summary">Deshabilita los ajustes rápidos en pantalla de bloqueo segura</string>
+    <string name="lockscreen_qs_disabled_title">Deshabilitar ajustes rápidos</string>
+    <string name="lockscreen_qs_disabled_summary">Deshabilitar ajustes rápidos en la pantalla de bloqueo seguro</string>
 
     <!-- Notification & Media fragment -->
     <string name="notification_media_settings_title">Medios y notificaciones</string>
